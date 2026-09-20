@@ -1,0 +1,3 @@
+// Infyicon needs no configuration: the extension runs the zero-dependency
+// `infyicon-mcp` bridge, which relays to the hosted server at https://infyicon.com/mcp.
+{}
